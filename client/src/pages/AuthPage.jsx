@@ -40,7 +40,7 @@ export default function AuthPage() {
           </h1>
         </div>
 
-        <figure className="max-w-lg rounded-lg border border-line bg-surface p-5">
+        {/* <figure className="max-w-lg rounded-lg border border-line bg-surface p-5">
           <p className="text-sm text-ink-soft">How long do I have to return an item?</p>
           <p className="mt-3 font-serif text-lg leading-relaxed">
             You can return it within 30 days of delivery, as long as it is unused
@@ -50,7 +50,7 @@ export default function AuthPage() {
             Items may be returned within 30 days of delivery if they are unused and in original packaging.
           </blockquote>
           <figcaption className="mt-2 text-sm text-ink-soft">returns-policy.pdf, page 2</figcaption>
-        </figure>
+        </figure> */}
       </section>
 
       <section className="flex items-center justify-center bg-surface px-6 py-12">
