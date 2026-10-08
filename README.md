@@ -123,7 +123,4 @@ client/src
   unusual files. Re-save the file with "Print to PDF" and upload that.
 - **429 or quota errors:** you hit the free tier limit. Wait a minute and retry.
 
-## Before adding it to your resume
 
-Replace any claim with something you measured yourself, such as the number of documents you tested, typical
-response time, or retrieval accuracy from the evaluation idea above. Only list what you can explain.
